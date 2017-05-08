@@ -1,0 +1,7 @@
+##基本步骤
+1、Write your views 创建视图 response响应
+HttpResponse("Hello, world. You're at the polls index.")
+
+2、Url关联 让url找到视图
+
+3、project url关联
